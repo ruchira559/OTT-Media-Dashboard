@@ -4,7 +4,7 @@
 This Power BI dashboard provides an in-depth analysis of OTT media content, including movies and TV shows. It visualizes key metrics such as content duration, ratings, and genre distribution across different years.
 
 ## 📊 Dashboard Preview
-![Dashboard Home](Main-Dashboardpng)
+![Dashboard Home](Main-Dashboard.png)
 ![Netflix_Page_Example](Netflix.png)
 
 ## Key Insights

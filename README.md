@@ -15,7 +15,7 @@ This Power BI dashboard provides an in-depth analysis of OTT media content, incl
 
 ## Files in this Repository
 - **OTT Media.pbix:** The main Power BI file.
-- **OTT_Data.xlsx:** The extracted raw data used for analysis.
+- **MasterData.xlsx:** The fact table file.
 
 ## How to View
 1. Download the `.pbix` file.
